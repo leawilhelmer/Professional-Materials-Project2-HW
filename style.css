@@ -1,0 +1,51 @@
+body{
+    background-image:url(./Assets/HvIEnr.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#navbar-example2 {
+    background-color: #191970;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+#about {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+
+.card-header{
+    font-size: 30px;
+    background-color: black;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 500px;
+}
+
+#link {
+    text-align: center;
+}
+
+#sticky-footer {
+    background-color: #10104e;
+}
+

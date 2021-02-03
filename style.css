@@ -7,7 +7,7 @@ body{
 }
 
 #navbar-example2 {
-    background-color: #191970;
+    background-color: gray;
 }
 
 .navbar-brand {
@@ -31,6 +31,8 @@ body{
 .card-header{
     font-size: 30px;
     background-color: black;
+    margin-top: 60px;
+    text-align: center;
 }
 
 .picture {
@@ -46,6 +48,27 @@ body{
 }
 
 #sticky-footer {
-    background-color: #10104e;
+    background-color: gray;
+}
+
+h2 {
+    color: white;
+    margin-top: 170px;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    margin-top: 170px;
+    text-align: center;
+}
+
+footer small, footer {
+    position: absolute;
+    bottom: 0;
+    height: 2.5rem;
+    width: 100%;
+    font-size: small;
+    text-align: center;
 }
 

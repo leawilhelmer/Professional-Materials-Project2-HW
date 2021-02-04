@@ -51,24 +51,26 @@ body{
     background-color: gray;
 }
 
+h1 {
+    color: white;
+    margin-top: 270px;
+    text-align: center;
+}
+
 h2 {
     color: white;
-    margin-top: 170px;
+    margin-top: 270px;
     text-align: center;
 }
 
-h4 {
-    color: white;
-    margin-top: 170px;
-    text-align: center;
-}
-
-footer small, footer {
-    position: absolute;
+footer {
     bottom: 0;
-    height: 2.5rem;
     width: 100%;
-    font-size: small;
+    height: 1rem;
+    position: absolute;
     text-align: center;
 }
 
+a {
+    text-align: center;
+}

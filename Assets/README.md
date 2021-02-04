@@ -10,7 +10,7 @@ Bootstrap
 
 GitHub page: https://github.com/leawilhelmer/Professional-Materials-Project2-HW.git
 
-Repo page: https://github.com/leawilhelmer/Professional-Materials-Project2-HW.git
+Repo page: https://leawilhelmer.github.io/Professional-Materials-Project2-HW/
 
 ## Screenshot of my Portfolio:
 

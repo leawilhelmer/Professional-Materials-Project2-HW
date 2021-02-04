@@ -54,14 +54,12 @@ body{
 
 h1 {
     color: white;
-    margin-top: 270px;
     text-align: center;
     font-family: 'Playfair Display', serif;
 }
 
 h2 {
     color: white;
-    margin-top: 270px;
     text-align: center;
     font-family: 'Playfair Display', serif;
 }
@@ -86,4 +84,9 @@ p {
 
 .contact {
     margin-top: 60px;
+}
+
+.home {
+    text-align: center;
+    margin-top: 220px;
 }

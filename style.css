@@ -12,6 +12,7 @@ body{
 
 .navbar-brand {
     color: white;
+    font-family: 'Merriweather', serif;
 }
 
 .nav-link {
@@ -30,7 +31,7 @@ body{
 
 .card-header{
     font-size: 30px;
-    background-color: black;
+    color: white;
     margin-top: 60px;
     text-align: center;
 }
@@ -55,12 +56,14 @@ h1 {
     color: white;
     margin-top: 270px;
     text-align: center;
+    font-family: 'Playfair Display', serif;
 }
 
 h2 {
     color: white;
     margin-top: 270px;
     text-align: center;
+    font-family: 'Playfair Display', serif;
 }
 
 footer {
@@ -73,4 +76,9 @@ footer {
 
 a {
     text-align: center;
+}
+
+p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
 }

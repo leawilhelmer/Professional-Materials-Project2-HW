@@ -8,9 +8,9 @@ Bootstrap
 
 ## Links to Deploy Application:
 
-GitHub page: https://leawilhelmer.github.io/HW-7-Updated-Portfolio/
+GitHub page: https://github.com/leawilhelmer/Professional-Materials-Project2-HW.git
 
-Repo page: https://github.com/leawilhelmer/HW-7-Updated-Portfolio.git
+Repo page: https://github.com/leawilhelmer/Professional-Materials-Project2-HW.git
 
 ## Screenshot of my Portfolio:
 
